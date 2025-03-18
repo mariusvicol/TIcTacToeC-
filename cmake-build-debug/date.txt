@@ -1,0 +1,6 @@
+4,4,-XOO--X---------,X,Neinceput
+5,5,-OXX---------OO----X-XO--,X,Neinceput
+3,3,------X--,O,Terminat
+2,4,X-OXO-XOXOXOOX--,X,Terminat
+8569,3,OXX-OOOXX,X,Terminat
+1,3,X-OXO-XOO,X,Terminat

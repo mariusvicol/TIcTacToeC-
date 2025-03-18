@@ -1,0 +1,5 @@
+C:/Users/offma/Desktop/Univeristy Work/Year 1/Year 1 - Semester 2/Object Oriented Programming/Teme Laborator/Examen Practic/TicTacToe/cmake-build-debug/CMakeFiles/TicTacToe.dir
+C:/Users/offma/Desktop/Univeristy Work/Year 1/Year 1 - Semester 2/Object Oriented Programming/Teme Laborator/Examen Practic/TicTacToe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/offma/Desktop/Univeristy Work/Year 1/Year 1 - Semester 2/Object Oriented Programming/Teme Laborator/Examen Practic/TicTacToe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/offma/Desktop/Univeristy Work/Year 1/Year 1 - Semester 2/Object Oriented Programming/Teme Laborator/Examen Practic/TicTacToe/cmake-build-debug/CMakeFiles/TicTacToe_autogen_timestamp_deps.dir
+C:/Users/offma/Desktop/Univeristy Work/Year 1/Year 1 - Semester 2/Object Oriented Programming/Teme Laborator/Examen Practic/TicTacToe/cmake-build-debug/CMakeFiles/TicTacToe_autogen.dir
